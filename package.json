@@ -1,0 +1,31 @@
+{
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^2.1.0",
+    "gulp": "^3.8.11",
+    "mocha": "latest"
+  },
+  "name": "pl-grado-temperature-converter",
+  "version": "1.0.0",
+  "description": "ULL ESIT Grado de Informática. 3º. PL. Lab \"Temperature Converter\"",
+  "main": "js/tests/temperature.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "open tests/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PL1415/Practica3.git"
+  },
+  "keywords": [
+    "regexp"
+  ],
+  "author": "JuanFGR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PL1415/Practica3/issues"
+  },
+  "homepage": "https://github.com/PL1415/Practica3"
+}
